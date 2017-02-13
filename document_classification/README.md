@@ -52,7 +52,7 @@
 
 ## 要求
 
-具体项目报告要求请参见优达学城毕业项目说明，https://github.com/nd009/machine-learning。
+具体项目报告要求请参见优达学城毕业项目[模版](https://github.com/nd009/capstone/blob/master/capstone_report_template.md)和[要求](https://review.udacity.com/#!/rubrics/273/view)。
 
 ## 工具
 
