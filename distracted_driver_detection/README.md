@@ -4,6 +4,10 @@
 
 ![](driver.gif)
 
+## AWS
+
+由于此项目要求的计算量较大，建议使用亚马逊 p2.xlarge 云服务器来完成该项目。参考：[在aws上配置深度学习主机 ](http://discussions.youdaxue.com/t/aws/30961)
+
 ## 描述
 
 使用深度学习方法检测驾驶员的状态。
