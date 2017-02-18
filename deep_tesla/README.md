@@ -61,7 +61,7 @@ http://selfdrivingcars.mit.edu/deeptesla/
         - https://keras.io/models/about-keras-models/
         - http://keras-cn.readthedocs.io/en/latest/getting_started/FAQ/
     - 在deeptesla的根目录下运行python run.py，运行时会询问你是否采用`./models`中已有的模型，选择`y`
-    - 接下来程序会输出模型的描述，并根据你的模型生成`epoch10_front.mkv`的结果视频并保存在`./output`中，我们对你模型的评价将参考这一视频的结果。结果视频如题目描述中的[动图](#video_output)所示。
+    - 接下来程序会输出模型的描述，并根据你的模型生成`epoch10_front.mkv`的结果视频并保存在`./output`中，我们对你模型的评价将参考这一视频的结果。结果视频如题目描述中的动图所示。
 
 
 ## 评估
@@ -69,7 +69,7 @@ http://selfdrivingcars.mit.edu/deeptesla/
                                 
                                 
 ## 提交：
-* PDF 报告文件（注意这不应该是notebook的导出，请尽量按照[模板](https://github.com/nd009/machine-learning/blob/zh-cn/projects/capstone/capstone_report_template.md)填写）
+* PDF 报告文件（注意这不应该是notebook的导出，请尽量按照[模板](https://github.com/nd009/capstone/blob/master/capstone_report_template.md)填写）
 
 * `./output`中生成的视频`epoch10_human_machine.mp4`
 
