@@ -16,7 +16,7 @@ http://selfdrivingcars.mit.edu/deeptesla/
     ![](./images/img/frame_1173.jpg)
 
  
- - 行驶过程中的控制信号: CSV格式
+- 行驶过程中的控制信号: CSV格式
 
     ts_micro         | frame_index | wheel 
     ------------------|-------------|-------
