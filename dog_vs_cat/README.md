@@ -45,6 +45,7 @@
 * [ResNet](https://arxiv.org/abs/1512.03385) 15.12
 * [Inception v3](https://arxiv.org/abs/1512.00567) 15.12
 * [Inception v4](https://arxiv.org/abs/1602.07261) 16.02
+* [Xception](https://arxiv.org/abs/1610.02357) 16.10
 * [ResNeXt](https://arxiv.org/abs/1611.05431) 16.11
 
 参考代码：[deep learning models for keras](https://github.com/fchollet/deep-learning-models)
