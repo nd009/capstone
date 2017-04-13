@@ -1,5 +1,7 @@
 # 猫狗大战
 
+## 注意：请不要直接使用网上公开的代码
+
 [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 
 ![](dogvscat.png)
