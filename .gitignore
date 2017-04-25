@@ -63,3 +63,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# R Markdown
+.Rhistory
