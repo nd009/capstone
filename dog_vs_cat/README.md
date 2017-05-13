@@ -8,7 +8,7 @@
 
 ## AWS
 
-由于此项目要求的计算量较大，建议使用亚马逊 p2.xlarge 云服务器来完成该项目。参考：[在aws上配置深度学习主机 ](http://discussions.youdaxue.com/t/aws/30961)
+由于此项目要求的计算量较大，建议使用亚马逊 p2.xlarge 云服务器来完成该项目，目前在弗吉尼亚北部有已经配置好了环境的 AMI 可以使用。参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)
 
 ## 描述
 
@@ -96,7 +96,8 @@ OpenCV 的 iOS Framework 文件可以直接在这里下载：[OpenCV releases](h
 ## 提交
 
 * PDF 报告文件
-* 数据预处理代码（建议使用 jupyter notebook ）
-* 模型训练代码（建议使用 jupyter notebook ）
+* 数据预处理代码（jupyter notebook）
+* 模型训练代码（jupyter notebook）
+* notebook 导出的 html 文件
 * 应用代码（可选）
 * 包含使用的库，机器硬件，机器操作系统，训练时间等数据的 README 文档（建议使用 Markdown ）
