@@ -52,6 +52,10 @@
 
 参考代码：[deep learning models for keras](https://github.com/fchollet/deep-learning-models)
 
+# 最低要求
+
+本项目的最低要求是 kaggle public leaderboard 前10%。
+
 ## 应用(可选)(推荐)
 
 应用形式多种多样，可以是在本地调用摄像头跑的程序，也可以网页的，也可以是 iOS APP 或 Android APP，甚至可以是微信公众号。
