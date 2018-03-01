@@ -16,11 +16,10 @@
 
 * 输入：一张彩色图片
 * 输出：是猫还是狗
-* 可选输出：猫狗面部坐标，猫狗身体mask
 
 ## 数据
 
-此数据集可以从 kaggle 上下载。[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
+此数据集可以从 kaggle 上下载。[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
 
 此外还有一个数据集也非常好：[The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 
@@ -54,7 +53,9 @@
 
 # 最低要求
 
-本项目的最低要求是 kaggle public leaderboard 前10%。
+本项目的最低要求是 kaggle Public Leaderboard 前10%。
+
+https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/leaderboard
 
 ## 应用(可选)(推荐)
 
