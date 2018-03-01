@@ -76,15 +76,17 @@ https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/leaderboard
 
 ### iOS
 
-在 iOS 平台上你可以使用 [MetalPerformanceShaders](https://developer.apple.com/reference/metalperformanceshaders) 来实现卷积神经网络。推荐的语言：Swift。
+如果你使用 Keras 完成该项目，可以直接使用 Apple 提供的 [Core ML Tools](https://developer.apple.com/documentation/coreml/converting_trained_models_to_core_ml) 把训练出来的 Keras 模型直接转为 iOS 可以使用的模型。
 
-这里有一个 [Inception v3](https://github.com/shu223/iOS-10-Sampler/blob/master/iOS-10-Sampler/Samples/Inception3Net.swift) 在 iOS 上跑的例子。
+当然在 iOS 平台上你也可以使用 [MetalPerformanceShaders](https://developer.apple.com/reference/metalperformanceshaders) 来实现卷积神经网络。
+
+这里有一个 [Inception v3](https://github.com/shu223/iOS-10-Sampler/blob/master/iOS-10-Sampler/Samples/Inception3Net.swift) 在 iOS 上跑的例子，你可以参考，不过我们还是建议直接用上面的工具将 Keras 的模型转为 iOS 直接可以使用的模型。
 
 ![](https://raw.githubusercontent.com/shu223/iOS-10-Sampler/master/README_resources/imagerecog.gif)
 
-OpenCV 的 iOS Framework 文件可以直接在这里下载：[OpenCV releases](https://github.com/opencv/opencv/releases)。这里有一份教程，可以轻松入门：[turorial_hello](http://docs.opencv.org/3.2.0/d7/d88/tutorial_hello.html)
+OpenCV 的 iOS Framework 文件可以直接在这里下载：[OpenCV releases](https://github.com/opencv/opencv/releases)。这里有一份教程，可以轻松入门：[turorial_hello](https://docs.opencv.org/master/d7/d88/tutorial_hello.html)
 
-最终效果可以参考这个 app ：[PetOrNot](https://itunes.apple.com/cn/app/petornot/id926645155?l=en&mt=8)
+最终效果可以参考这个 app ：[PetOrNot](https://itunes.apple.com/cn/app/petornot/id926645155)
 
 ![PetOrNot](PetOrNot.jpeg)
 
@@ -92,7 +94,7 @@ OpenCV 的 iOS Framework 文件可以直接在这里下载：[OpenCV releases](h
 
 在 Android 上运行 tensorflow 可以参考 [android tensorflow](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)。
 
-在 Android 上运行 OpenCV 可以参考 [OpenCV4Android SDK](http://docs.opencv.org/3.2.0/da/d2a/tutorial_O4A_SDK.html)。
+在 Android 上运行 OpenCV 可以参考 [OpenCV4Android SDK](http://docs.opencv.org/master/da/d2a/tutorial_O4A_SDK.html)。
 
 ## 评估
 
