@@ -8,7 +8,7 @@
 
 ## AWS
 
-由于此项目要求的计算量较大，建议使用亚马逊 p2.xlarge 云服务器来完成该项目，目前在弗吉尼亚北部有已经配置好了环境的 AMI 可以使用。参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)
+由于此项目要求的计算量较大，建议使用亚马逊 p3.2xlarge 云服务器来完成该项目，参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)
 
 ## 描述
 
@@ -19,9 +19,9 @@
 
 ## 数据
 
-此数据集可以从 kaggle 上下载。[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
+此数据集可以从 kaggle 上下载。[Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
 
-此外还有一个数据集也非常好：[The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
+此外还有一个数据集也非常好，可以作为扩充数据集或是做检测/分割问题：[The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 ![](http://www.robots.ox.ac.uk/~vgg/data/pets/pet_annotations.jpg)
 
