@@ -6,7 +6,7 @@
 
 ## AWS
 
-由于此项目要求的计算量较大，建议使用亚马逊 p2.xlarge 云服务器来完成该项目，目前在弗吉尼亚北部有已经配置好了环境的 AMI 可以使用。参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)
+由于此项目要求的计算量较大，建议使用亚马逊 p3.2xlarge 云服务器来完成该项目，参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)
 
 ## 描述
 
@@ -48,17 +48,15 @@
 
 如果你不知道如何去构建你的模型，可以尝试以下的模型，后面的数字代表年份和月份：
 
-* [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) 1998
-* [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 12
 * [VGGNet](https://arxiv.org/abs/1409.1556) 14.09
-* [GoogLeNet](https://arxiv.org/abs/1409.4842) 14.09
 * [ResNet](https://arxiv.org/abs/1512.03385) 15.12
 * [Inception v3](https://arxiv.org/abs/1512.00567) 15.12
-* [Inception v4](https://arxiv.org/abs/1602.07261) 16.02
+* [InceptionResNetV2](https://arxiv.org/abs/1602.07261) 16.02
+* [DenseNet](https://arxiv.org/abs/1608.06993) 16.08
 * [Xception](https://arxiv.org/abs/1610.02357) 16.10
-* [ResNeXt](https://arxiv.org/abs/1611.05431) 16.11
+* [NASNet](https://arxiv.org/abs/1707.07012) 17.07
 
-参考代码：[deep learning models for keras](https://github.com/fchollet/deep-learning-models)
+参考 Keras 文档：[Documentation for individual models](https://keras.io/applications/#documentation-for-individual-models)
 
 ### 可视化
 
