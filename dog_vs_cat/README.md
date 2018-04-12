@@ -9,7 +9,7 @@
 
 ## AWS
 
-由于此项目要求的计算量较大，建议使用亚马逊 p3.2xlarge 云服务器来完成该项目，参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)
+由于此项目要求的计算量较大，建议使用亚马逊 p3.2xlarge 云服务器来完成该项目，在使用 p3 之前，你可以先用 p2.xlarge 练手，参考：[在aws上配置深度学习主机 ](https://zhuanlan.zhihu.com/p/25066187)，[利用AWS学习深度学习](https://zhuanlan.zhihu.com/p/33176260)。
 
 ## 描述
 
